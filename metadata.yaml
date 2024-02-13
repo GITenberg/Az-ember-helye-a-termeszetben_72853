@@ -1,0 +1,26 @@
+_repo: Az-ember-helye-a-termeszetben_72853
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lenhossék, Mihály
+    gutenberg_agent_id: '56834'
+    url: http://www.gutenberg.org/2009/agents/56834
+description: ''
+gutenberg_issued: '2024-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72853'
+language: hu
+pgterms:marc905: 20240115095327lenhossk
+pgterms:marc906: '1915'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Library
+  of the Hungarian Academy of Sciences
+publication_note: '  $aBudapest :$bFranklin-Társulat, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Az ember helye a természetben
+url: http://www.gutenberg.org/ebooks/72853
