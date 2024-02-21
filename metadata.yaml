@@ -1,11 +1,16 @@
 _repo: Az-ember-helye-a-termeszetben_72853
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lenhossék, Mihály
     gutenberg_agent_id: '56834'
     url: http://www.gutenberg.org/2009/agents/56834
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72853#Az-ember-helye-a-termeszetben
 gutenberg_issued: '2024-02-01'
 gutenberg_type: Text
 identifiers:
